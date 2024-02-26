@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning PythonProgramming
 - 💞️ I’m looking to collaborate on Python Programmers
-- 📫 How to reach me hemanthnageswararao@gmail.com
+- 📫 How to reach me hemanththoluchuri@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
